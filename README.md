@@ -1,6 +1,9 @@
 # Data Science Salary Dashboard
 
 This dashboard provides a visual summary of salary trends in the field of Data Science across different job roles, countries, and job types.
+---  
+
+<img width="1855" height="697" alt="image" src="https://github.com/user-attachments/assets/028163c8-da5e-458b-9997-7141d5306577" />
 
 ---
 
